@@ -29,7 +29,7 @@ node app.js
 
 Cela lancera votre serveur Express sur le port configuré (par défaut, le port 3000). Votre application est maintenant en écoute et prête à gérer les requêtes.
 
-## Récupération du token d'accès Strava
+## Récupération du token d'accès
 
 Pour récupérer un token d'accès Strava, suivez les étapes suivantes :
 
