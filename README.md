@@ -20,7 +20,8 @@ npm install
 
 Cette commande installera toutes les dépendances listées dans votre fichier package.json (express et dotenv)/
 
-## Lancement de l'application
+## Lancement de l'application
+
 Pour démarrer l'application, exécutez la commande suivante dans le terminal :
 
 ```js
